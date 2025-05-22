@@ -1,0 +1,15 @@
+Global File: laravel.MD
+ TO create A project 
+# create-project project Name 
+//  ╔══════════════════════════════════════════════════════════════════════════════╗
+//  ║                          ● Laravel Commands ●                                   ║
+//  ║                                                                              ║
+//  ║                           • Using PHp  •                                    ║
+//  ╚══════════════════════════════════════════════════════════════════════════════╝
+
+//
+# ₋Underline Text₋
+
+Routes::get('/',function(){
+    return view('wel);
+});
